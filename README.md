@@ -1,2 +1,2 @@
-# btr-website
-Website for Big Tent Records
+# personal-website
+Personal website
